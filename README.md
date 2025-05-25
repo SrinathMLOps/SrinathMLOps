@@ -6,7 +6,7 @@
 ---
 
 ## 👋 Hi there!  
-**Welcome to my GitHub profile!** I'm an enthusiastic **MLOps & AI Engineer, DevOps Specialist, and Prompt Engineer.**  
+**Welcome to my GitHub profile!** I'm an enthusiastic **GenAI Engineer,MLOps & AI Engineer, DevOps Specialist, and Prompt Engineer.**  
 
 ### 🔭 I’m currently working on:
 - 🚀 **Building scalable MLOps pipelines & AI infrastructure**  
