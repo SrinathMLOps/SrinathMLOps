@@ -1,7 +1,5 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hi, I am Srinath K  
 
-[![Email](https://img.shields.io/badge/Email-srinath.kaithoju@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:srinath.kaithoju@gmail.com)  
-[![Website](https://img.shields.io/badge/Website-mlopsgenaiworld-blue?style=flat&logo=google-chrome&logoColor=white)](https://mlopsgenaiworld.blogspot.com/)  
 [![Email](https://img.shields.io/badge/Email-srinath.kaithoju%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:srinath.kaithoju@gmail.com)  
 [![Website](https://img.shields.io/badge/Website-srinathkaithoju.com-blue?style=flat&logo=google-chrome&logoColor=white)](https://srinathkaithoju.com/)  
 [![Blog](https://img.shields.io/badge/Blog-mlopsgenaiworld.blogspot.com-orange?style=flat&logo=blogger&logoColor=white)](https://mlopsgenaiworld.blogspot.com/)  
